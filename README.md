@@ -1,4 +1,4 @@
-ng-bootstrap-typeahead
-======================
+angular-bootstrap-typeahead
+===========================
 
-Build version of Angular UI Bootstrap Typeahead
+Typeahead build from Angular UI Bootstrap
