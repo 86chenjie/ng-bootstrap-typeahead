@@ -1,6 +1,6 @@
 angular.module("ui.bootstrap.typeahead.custom", ["ui.bootstrap.typeahead.custom.tpls", "ui.bootstrap.position","ui.bootstrap.bindHtml","ui.bootstrap.typeahead"]);
 angular.module("ui.bootstrap.typeahead.custom.tpls", ["template/typeahead/typeahead-match.html","template/typeahead/typeahead-popup.html"]);
-angular.module('ui.bootstrap.position', []);
+angular.module('ui.bootstrap.position', [])
 
 /**
  * A set of utility methods that can be use to retrieve position of DOM elements.
